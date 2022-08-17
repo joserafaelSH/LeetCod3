@@ -4,18 +4,6 @@
 #         self.val = x
 #         self.next = None
 
-# class Solution:
-#     def detectCycle(self, head: Optional[ListNode]) -> Optional[ListNode]:
-#         aux = head 
-#         nodes = set()
-        
-#         while aux:
-#             if aux in nodes:
-#                 return aux
-#             nodes.add(aux)
-#             aux = aux.next 
-        
-#         return None
 
 class Solution:
     def detectCycle(self, head: Optional[ListNode]) -> Optional[ListNode]:
