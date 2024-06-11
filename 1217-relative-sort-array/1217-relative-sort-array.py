@@ -1,7 +1,7 @@
 class Solution:
     def relativeSortArray(self, arr1: List[int], arr2: List[int]) -> List[int]:
         
-        memo = [0 for i in range(1001)]
+      
         aux = []
         response = []
 
