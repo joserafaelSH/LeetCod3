@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/joserafaelSH/LeetCod3/tree/master/0088-merge-sorted-array) |
 | [1217-relative-sort-array](https://github.com/joserafaelSH/LeetCod3/tree/master/1217-relative-sort-array) |
 # Hash Table
 |  |
@@ -13,8 +14,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/joserafaelSH/LeetCod3/tree/master/0088-merge-sorted-array) |
 | [1217-relative-sort-array](https://github.com/joserafaelSH/LeetCod3/tree/master/1217-relative-sort-array) |
 # Counting Sort
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/joserafaelSH/LeetCod3/tree/master/1217-relative-sort-array) |
+# Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/joserafaelSH/LeetCod3/tree/master/0088-merge-sorted-array) |
