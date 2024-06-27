@@ -36,3 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/joserafaelSH/LeetCod3/tree/master/0169-majority-element) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/joserafaelSH/LeetCod3/tree/master/1916-find-center-of-star-graph) |
